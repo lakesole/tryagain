@@ -37,7 +37,7 @@ cafe-app/
 │       ├── list.js
 │       ├── detail.html               # 주문 상세
 │       ├── detail.css
-│       └── detail.js
+│       └── detail.js                   
 │
 ├── 🔴 관리자/사장
 │   └── admin/
